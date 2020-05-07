@@ -1,2 +1,7 @@
 docker system prune -f -- Limpa o systema docker
 docker volume prune  --- exclui o volume de container não utilizados
+
+
+docker ps -a  - verifica os containers
+
+
